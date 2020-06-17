@@ -1,0 +1,40 @@
+{
+    "image": "Car_R2_Demo-4.9",
+    "model_sets": [
+        "Default"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "轮廓 #1",
+            "sub_material": "white #1"
+        },
+        {
+            "base_material": "车灯",
+            "sub_material": "on"
+        },
+        {
+            "base_material": "车灯B",
+            "sub_material": "on"
+        },
+        {
+            "base_material": "轮廓B",
+            "sub_material": "Default:0:0:0  #6"
+        },
+        {
+            "base_material": "轮廓",
+            "sub_material": "blue"
+        },
+        {
+            "base_material": "腰身",
+            "sub_material": "blue"
+        },
+        {
+            "base_material": "主面",
+            "sub_material": "Material"
+        },
+        {
+            "base_material": "Default:0:0:0   #3",
+            "sub_material": "Default:0:0:0   #3"
+        }
+    ]
+}
